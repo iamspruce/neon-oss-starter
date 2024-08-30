@@ -96,15 +96,15 @@ When prompted, select "Yes" to use TypeScript, "Yes" to use TailwindCSS, and cho
 
 2. **Create your NEON database:**
 
-1. Sign up for a NEON account at [https://neon.tech](https://neon.tech)
-1. Create a new project in the NEON console
-1. Once created, navigate to the "Connection Details" section
-1. Copy the connection string provided
+- Sign up for a NEON account at [https://neon.tech](https://neon.tech)
+- Create a new project in the NEON console
+- Once created, navigate to the "Connection Details" section
+- Copy the connection string provided
 
-1. **Set up your environment variables:**
+3. **Set up your environment variables:**
 
-1. In your project root, create a `.env` file
-1. Add your NEON database URL:
+- In your project root, create a `.env` file
+- Add your NEON database URL:
 
 ```plaintext
 DATABASE_URL="your-neon-connection-string"
@@ -490,7 +490,7 @@ This starter kit is optimized for deployment on Vercel, leveraging its seamless 
    - Vercel will automatically detect that you're using Next.js.
    - In the "Environment Variables" section, add all variables from your `.env.local` file:
      - `DATABASE_URL`: Your NEON database connection string
-     - `NEXTAUTH_SECRET`: A secure random string for NextAuth
+     - `AUTH_SECRET`: A secure random string for NextAuth
      - `GITHUB_ID` and `GITHUB_SECRET`: If using GitHub authentication
      - `GOOGLE_ID` and `GOOGLE_SECRET`: If using Google authentication
 
