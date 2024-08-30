@@ -81,10 +81,15 @@ Choose your preferred deployment platform:
 - **Vercel**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/iamspruce/neon-oss-starter)
 - **Netlify**: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/iamspruce/neon-oss-starter)
 
-Here's the updated "Do It Yourself" section for your README.md:
+## Do It Yourself
 
-```markdown project="neon-oss-starter" file="README.md"
-...
+This section provides a step-by-step guide to setting up the NEON OSS Starter from scratch. Follow these steps to install dependencies, set up the database, configure authentication, and more.
+
+1. **Install Next.js:**
+   First, install a new Next.js project by running the following command:
+
+```bash
+npx create-next-app@latest
 ```
 
 When prompted, select "Yes" to use TypeScript, "Yes" to use TailwindCSS, and choose your preferred options for the other prompts.
