@@ -80,6 +80,7 @@ Choose your preferred deployment platform:
 
 - **Vercel**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/iamspruce/neon-oss-starter)
 - **Netlify**: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/iamspruce/neon-oss-starter)
+- **Heroku**: [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iamspruce/neon-oss-starter)
 
 ## Do It Yourself
 
