@@ -8,7 +8,7 @@ The NEON OSS Starter Kit is a full-stack application template designed to help d
 
 - **[Next.js 14](https://nextjs.org/)**: React framework for building web applications
 - **[NEON](https://neon.tech/)**: Serverless PostgreSQL database
-- **[Prisma](https://www.prisma.io/)**: Next-generation ORM for Node.js and TypeScript
+- **[Prisma](https://www.prisma.io/?via=spruce)**: Next-generation ORM for Node.js and TypeScript
 - **[NextAuth v5](https://next-auth.js.org/)**: Authentication for Next.js
 - **[shadcn/ui](https://ui.shadcn.com/)**: Re-usable components built with Radix UI and Tailwind CSS
 - **[Tailwind CSS](https://tailwindcss.com/)**: Utility-first CSS framework
