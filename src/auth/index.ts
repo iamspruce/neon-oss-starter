@@ -49,7 +49,7 @@ const authOptions: NextAuthConfig = {
 
         // Optionally, you might want to validate the password here
         // e.g., using bcrypt to compare the provided password with the hashed password in the database
-        console.log(user);
+
         return user;
       },
     }),
