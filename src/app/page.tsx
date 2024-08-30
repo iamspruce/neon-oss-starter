@@ -35,7 +35,7 @@ export default async function Home() {
       <Card className="mb-8">
         <CardHeader>
           <CardTitle className="text-3xl">
-            Welcome to the NEON OSS Starter Kit
+            Welcome to the NEON OSS Next.js Starter Kit
           </CardTitle>
         </CardHeader>
         <CardContent>

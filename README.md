@@ -1,4 +1,4 @@
-# NEON OSS Starter Kit
+# NEON OSS Next.js Starter Kit
 
 ## Overview
 
@@ -469,11 +469,6 @@ npm run dev
 
 Your NEON OSS Next.js starter should now be up and running with authentication, protected routes, and a basic UI using shadcn/ui components.
 
-```plaintext
-
-This detailed "Do It Yourself" guide provides step-by-step instructions for setting up the NEON OSS starter from scratch. It covers all the steps you specified, including setting up Next.js with TailwindCSS, creating a NEON database, installing and configuring Prisma, setting up NextAuth v5 with various providers, creating protected routes, and installing shadcn/ui [^1][^2][^3].
-```
-
 ## Deployment
 
 This starter kit is optimized for deployment on Vercel, leveraging its seamless integration with Next.js and NEON's serverless PostgreSQL. However, you can deploy to other platforms that support Node.js applications.
@@ -560,7 +555,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [NEON](https://neon.tech/) for providing a top-notch serverless PostgreSQL solution.
 - [Vercel](https://vercel.com/) for the Next.js framework and seamless deployment experience.
-- [Prisma](https://www.prisma.io/) for making database management a breeze.
+- [Prisma](https://www.prisma.io/?via=spruce) for making database management a breeze.
 - [NextAuth.js](https://next-auth.js.org/) for simplifying authentication in Next.js.
 - [shadcn/ui](https://ui.shadcn.com/) for the elegant and reusable UI components.
 - All the open-source projects and contributors who made this starter kit possible.
